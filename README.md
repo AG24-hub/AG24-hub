@@ -43,8 +43,8 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ag24-hub&show_icons=true&locale=en&layout=compact" alt="ag24-hub" /></p>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ag24-hub&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ag24-hub&show_icons=true&locale=en" alt="ag24-hub" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ag24-hub&theme=one_dark_pro&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ag24-hub&" alt="ag24-hub" /></p>
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ag24-hub&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
